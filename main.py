@@ -1,5 +1,6 @@
-# Homie: adam
-# import data from excel file
+#Homie: Adam Cohen
+#date: 03/12/18
+#part 1 - serching apartments from excel
 
 import sys
 import xlrd
