@@ -1,7 +1,6 @@
 #Homie: Adam Cohen
 #date: 03/12/18
 #part 1 - serching apartments from excel!
-#bla bla
 
 import sys
 import xlrd
